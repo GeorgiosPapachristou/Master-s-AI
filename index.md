@@ -1,21 +1,21 @@
 ## E-Portfolio of   
 
-![](https://user-images.githubusercontent.com/36738165/119046119-505f9980-b98a-11eb-9e40-7e4173db03f3.png)
+![]![Profil image](https://github.com/user-attachments/assets/9a96146c-3341-4200-9e11-3eee837d02ab)
 
-# Steve Johnson, CISSP, CVP       
 
-## MSc. Cybersecurity Cohort May 2021
+# Georgios Papachristou, PhD, CIA, CRMA       
+
+## Master's in Artificial Intelligence
+   Machine Learning Module
 
 ---
 
 ### About Me
 
-### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
-
-### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
+### I am an experienced Senior Internal Control and Compliance Officer at an International Organization with more than 12 years of working experience. I hold a PhD in Accounting and I am currenlty studying Artificial Intelligence at Master's level at the University of Essex Online.
 
 
-### University of Essex Learning Experience
+### Machine Learning Module
 
 *   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
 *   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
