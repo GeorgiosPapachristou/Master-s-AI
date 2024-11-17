@@ -15,11 +15,11 @@
 ### I am an experienced Senior Internal Control and Compliance Officer at an International Organization with more than 12 years of working experience. I hold a PhD in Accounting and I am currenlty studying Artificial Intelligence at Master's level at the University of Essex Online.
 
 
-### Machine Learning Module
+### Machine Learning Module - Artefacts
 
-*   [Units 1-3 Collaborative Discussion 1](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf)
-*   [Unit 2 Exploratory Data Analysis](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/EDA%20Unit%202.pdf)
-*   [Unit 3 Correlation and Regression](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Covariance_Pearson_correlation.pdf)
+*   [Units 1-3 Collaborative Discussion 1: The 4th Industrial Revolution](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf)
+*   [Unit 2 Exploratory Data Analysis of Auto-mpg dataset](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/EDA%20Unit%202.pdf)
+*   [Unit 3 Correlation and Regression: Change variable in covariance_pearson_correlation programme to observe how changes impact correlation and regression](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Covariance_Pearson_correlation.pdf)
 *   [Unit 4 Linear Regression with Scikit-Learn]
 *   [Unit 5 Clustering]
 *   [Unit 6 Clustering with Python]
