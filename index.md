@@ -17,7 +17,7 @@
 
 ### Machine Learning Module
 
-*   [Units 1-3 Collaboarative Discussion 1](https://[https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf])
+*   [Units 1-3 Collaboarative Discussion 1](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf)
 *   [Unit 2 Exploaratory Data Analysis](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Unit 3 Correlation and Regression](http://example.com/)
 *   [Unit 4](http://example.com/)
