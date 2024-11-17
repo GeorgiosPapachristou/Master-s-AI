@@ -1,6 +1,6 @@
 ## E-Portfolio of   
 
-![]![Profil image](https://github.com/user-attachments/assets/9a96146c-3341-4200-9e11-3eee837d02ab)
+![Profil image](https://github.com/user-attachments/assets/9a96146c-3341-4200-9e11-3eee837d02ab)
 
 
 # Georgios Papachristou, PhD, CIA, CRMA       
@@ -17,12 +17,18 @@
 
 ### Machine Learning Module
 
-*   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
-*   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [Module 2 Title](http://example.com/)
-*   [Module 3 Title](http://example.com/)
-*   [Module 4 Title](http://example.com/)
-*   [Module 5 Title](http://example.com/)
+*   [Units 1-3 Collaboarative Discussion 1](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
+*   [Unit 2 Exploaratory Data Analysis](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Unit 3 Correlation and Regression](http://example.com/)
+*   [Unit 4](http://example.com/)
+*   [Unit 5](http://example.com/)
+*   [Unit 6](http://example.com/)
+*   [Unit 7]
+*   [Unit 8]
+*   [Unit 9]
+*   [Unit 10]
+*   [Unit 11]
+*   [Unit 12]
 
 ---
 
