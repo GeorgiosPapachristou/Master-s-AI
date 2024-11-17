@@ -17,12 +17,12 @@
 
 ### Machine Learning Module
 
-*   [Units 1-3 Collaboarative Discussion 1](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf)
+*   [Units 1-3 Collaborative Discussion 1](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf)
 *   [Unit 2 Exploaratory Data Analysis](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/EDA%20Unit%202.pdf)
-*   [Unit 3 Correlation and Regression](http://example.com/)
-*   [Unit 4](http://example.com/)
-*   [Unit 5](http://example.com/)
-*   [Unit 6](http://example.com/)
+*   [Unit 3 Correlation and Regression](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Covariance_Pearson_correlation.pdf)
+*   [Unit 4]
+*   [Unit 5]
+*   [Unit 6]
 *   [Unit 7]
 *   [Unit 8]
 *   [Unit 9]
