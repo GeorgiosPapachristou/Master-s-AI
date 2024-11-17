@@ -18,7 +18,9 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
 ### Artefacts
 
-*   [Units 1-3 Collaborative Discussion 1: The 4th Industrial Revolution](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf)
+*   Units 1-3
+*
+*   [Collaborative Discussion 1: The 4th Industrial Revolution](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf)
 *   
 *   [Unit 2 Exploratory Data Analysis of Auto-mpg dataset](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/EDA%20Unit%202.pdf)
 *   
