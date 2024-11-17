@@ -1,6 +1,5 @@
 title: E-portfolio
-logo: https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/Essex%20online%20logo.jpeg
-description: E-portfolio of Machine Learning module
+logo: (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/Essex%20online%20logo.jpeg)
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
