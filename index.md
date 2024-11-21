@@ -36,7 +36,9 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
 *   Unit 4
   
-    [Linear Regression with Scikit-Learn]
+    Linear Regression with Scikit-Learn
+
+    [GDP & Global Population case analysis]
   
 *   Unit 5
   
