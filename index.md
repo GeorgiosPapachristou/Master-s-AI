@@ -38,7 +38,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
     Linear Regression with Scikit-Learn
 
-    [GDP & Global Population case analysis]
+    [GDP & Global Population case analysis](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit4%20Correlation%20and%20Regression.pdf)
   
 *   Unit 5
   
