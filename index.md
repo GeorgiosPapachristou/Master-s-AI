@@ -44,7 +44,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
     Clustering
 
-    [WIKI Activity:Clustering](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/WIKI%20Activity_Clustering.pdf)
+    [WIKI Activity: Clustering](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/WIKI%20Activity_Clustering.pdf)
   
 *   Unit 6
   
