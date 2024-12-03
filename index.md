@@ -48,7 +48,10 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
 *   Unit 6
   
-    [Clustering with Python]
+    Clustering with Python
+    
+    [Team Project: Airbnb Report](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/ML%20assignment%20group%203%20report.pdf)
+    [Team Project: Data Analysis](
   
 *   Unit 7
   
