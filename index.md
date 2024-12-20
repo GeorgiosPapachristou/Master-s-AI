@@ -63,6 +63,11 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 *   Unit 8
   
     [Training an Artificial Neural Network]
+
+    [Gradient Cost Function Summary Analysis] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Change%20on%20cost%20when%20changing%20iteration%20number%20and%20learning%20rate.pdf)
+
+    [Gradient Cost Function Code] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit%208%20Iteration%20and%20learning%20rate%20impact%20on%20cost.ipynb)
+    
   
 *   Unit 9
   
