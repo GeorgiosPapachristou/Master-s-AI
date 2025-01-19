@@ -71,7 +71,11 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
 *   Unit 9
   
-    [Introduction to Convolutioanl Neural Networks (CNNs)]
+    Introduction to Convolutioanl Neural Networks (CNNs)
+
+    [Convolutional Neural Network (CNN)_Object Recognition] (
+
+    [Personal reflections on the ethical and social implications of this CNN technology]
   
 *   Unit 10
   
