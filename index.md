@@ -62,9 +62,9 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     [Simple Perceptron] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex1%20simple_perceptron.ipynb)
 
-    [Perceptron and operator]
+    [Perceptron and operator] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex2%20perceptron_AND_operator.ipynb)
 
-    [Multi-layer perceptron] 
+    [Multi-layer perceptron] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex3%20multi-layer%20Perceptron.ipynb)
   
 *   Unit 8
   
