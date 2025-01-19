@@ -79,7 +79,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
 *   Units 8-10
   
-    [Collaborative Discussion 2] 
+    [Collaborative Discussion 2] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%202_Units%208-10.pdf)
   
 *   Unit 11
   
