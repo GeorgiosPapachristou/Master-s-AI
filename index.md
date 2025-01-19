@@ -75,7 +75,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     [Convolutional Neural Network (CNN)_Object Recognition] (
 
-    [Personal reflections on the ethical and social implications of this CNN technology]
+    [Personal reflections on the ethical and social implications of this CNN technology] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Personal%20thoughts%20on%20the%20ethical%20and%20social%20implications%20of%20this%20CNN%20technology.pdf)
   
 *   Unit 10
   
@@ -84,6 +84,12 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 *   Unit 11
   
     [Model Selection and Evaluation]
+
+    [Assignment - power point]
+
+    [Assignment - transcript of presentation]
+
+    [Assignment - ipynb] 
   
 *   Unit 12
   
