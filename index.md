@@ -87,7 +87,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     [Assignment - power point] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Assignment%2011.pdf)
 
-    [Assignment - transcript of presentation]
+    [Assignment - transcript of presentation] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Transcript%20of%20presentation.pdf)
 
     [Assignment - ipynb] 
   
