@@ -77,9 +77,9 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     [Personal reflections on the ethical and social implications of this CNN technology] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Personal%20thoughts%20on%20the%20ethical%20and%20social%20implications%20of%20this%20CNN%20technology.pdf)
   
-*   Unit 10
+*   Units 8-10
   
-    [CNN Interactive Learning]
+    [Collaborative Discussion 2] 
   
 *   Unit 11
   
@@ -89,7 +89,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     [Assignment - transcript of presentation] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Transcript%20of%20presentation.pdf)
 
-    [Assignment - ipynb] 
+    [Assignment - ipynb] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit11_model_Performance_Measurement.ipynb)
   
 *   Unit 12
   
