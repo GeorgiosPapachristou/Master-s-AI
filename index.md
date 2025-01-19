@@ -58,7 +58,13 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
 *   Unit 7
   
-    [Introduction to Artificial Neural Networks (ANNs)]
+    Introduction to Artificial Neural Networks (ANNs)
+
+    [Simple Perceptron] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex1%20simple_perceptron.ipynb)
+
+    [Perceptron and operator]
+
+    [Multi-layer perceptron] 
   
 *   Unit 8
   
