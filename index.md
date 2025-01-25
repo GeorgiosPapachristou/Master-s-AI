@@ -60,40 +60,40 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
     Introduction to Artificial Neural Networks (ANNs)
 
-    [Simple Perceptron] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex1%20simple_perceptron.ipynb)
+    [Simple Perceptron](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex1%20simple_perceptron.ipynb)
 
-    [Perceptron and operator] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex2%20perceptron_AND_operator.ipynb)
+    [Perceptron and operator](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex2%20perceptron_AND_operator.ipynb)
 
-    [Multi-layer perceptron] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex3%20multi-layer%20Perceptron.ipynb)
+    [Multi-layer perceptron](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex3%20multi-layer%20Perceptron.ipynb)
   
 *   Unit 8
   
     Training an Artificial Neural Network
 
-    [Gradient Cost Function Summary Analysis] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Change%20on%20cost%20when%20changing%20iteration%20number%20and%20learning%20rate.pdf)
+    [Gradient Cost Function Summary Analysis](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Change%20on%20cost%20when%20changing%20iteration%20number%20and%20learning%20rate.pdf)
 
-    [Gradient Cost Function Code] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit%208%20Iteration%20and%20learning%20rate%20impact%20on%20cost.ipynb)
+    [Gradient Cost Function Code](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit%208%20Iteration%20and%20learning%20rate%20impact%20on%20cost.ipynb)
     
   
 *   Unit 9
   
     Introduction to Convolutioanl Neural Networks (CNNs)
 
-    [Personal reflections on the ethical and social implications of this CNN technology] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Personal%20thoughts%20on%20the%20ethical%20and%20social%20implications%20of%20this%20CNN%20technology.pdf)
+    [Personal reflections on the ethical and social implications of this CNN technology](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Personal%20thoughts%20on%20the%20ethical%20and%20social%20implications%20of%20this%20CNN%20technology.pdf)
   
 *   Units 8-10
   
-    [Collaborative Discussion 2] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%202_Units%208-10.pdf)
+    [Collaborative Discussion 2](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%202_Units%208-10.pdf)
   
 *   Unit 11
   
     Model Selection and Evaluation
 
-    [Assignment - power point] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Assignment%2011.pdf)
+    [Assignment - power point](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Assignment%2011.pdf)
 
-    [Assignment - transcript of presentation] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Transcript%20of%20presentation.pdf)
+    [Assignment - transcript of presentation](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Transcript%20of%20presentation.pdf)
 
-    [Assignment - ipynb] (https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit11_model_Performance_Measurement.ipynb)
+    [Assignment - ipynb](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit11_model_Performance_Measurement.ipynb)
   
 *   Unit 12
   
