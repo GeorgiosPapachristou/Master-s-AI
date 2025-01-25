@@ -20,7 +20,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
 *   Units 1-3
 
-*   During these units, a discussion over the 4th Industrial Revolution was conducted. Apart from the benefits of this revolution, an incident where the failure of an information system has had a significant impact was analysed. In the link below, the discussion on "The Global PlayStation Network Crash" can be seen.
+   During these units, a discussion over the 4th Industrial Revolution was conducted. Apart from the benefits of this revolution, an incident where the failure of an information system has had a significant impact was analysed. In the link below, the discussion on "The Global PlayStation Network Crash" can be seen.
 
     [Collaborative Discussion 1: The 4th Industrial Revolution](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf)
   
