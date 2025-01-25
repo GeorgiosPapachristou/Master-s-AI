@@ -100,7 +100,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
 *   Units 8-10
 
-*   During these units, a discussion over the the risks and benefits of the use AI writers at different levels, from administrative work to creative writing was conducted. In the link below, evidence of the discussion can be seen.
+    During these units, a discussion over the the risks and benefits of the use AI writers at different levels, from administrative work to creative writing was conducted. In the link below, evidence of the discussion can be seen.
   
     [Collaborative Discussion 2](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%202_Units%208-10.pdf)
   
