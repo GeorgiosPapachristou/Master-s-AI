@@ -118,5 +118,9 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
 *   Unit 12
   
-    [Industry 4.0 and Machine Learning]
+    Industry 4.0 and Machine Learning
+
+    The so-called “smartisation” of manufacturing industries has been conceived as the fourth industrial revolution or Industry 4.0, a paradigm shift propelled by the upsurge and progressive maturity of new Information and Communication Technologies (ICT) applied to industrial processes and products. In this unit, it was presented the way machine learning algorithms are deployed in industry 4.0 environment, the concept of digital twins and its relationship with data science, and the job prospects in industry 4.0 era. In the link below, personal reflections of the module can be seen.
+
+    [Personal reflections]( 
 
